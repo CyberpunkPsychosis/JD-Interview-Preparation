@@ -563,7 +563,7 @@ git push -u origin main
 
 ```bash
 # 创建模板文件
-cat > 08-daily-notes/TEMPLATE.md << 'EOF'
+cat > 08-daily-notes/Day1 了解内存结构.md << 'EOF'
 # Day X - YYYY-MM-DD - [学习主题]
 
 ## ✅ 今日目标
